@@ -1,4 +1,4 @@
-Functional states of CRMs
+Simultaneous Prediction of Functional States and Types of cis-regulatory Modules
 
 The code for training and predicting active CRMs in the whole genome in K562
 
