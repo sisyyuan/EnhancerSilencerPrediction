@@ -7,11 +7,11 @@
      - Train_evaluate_model_silencer.py
      - Model trained with logistic regression: LogisticRegression-CA-H3K9me3-H3K27me3.joblib
 ## The code for predicting active enhancers and silencers in the whole genome:
-   - Predict_enhancer.py
-   - Predict_silencer.py
+   - Predict_Enhancer.py
+   - Predict_Silencer.py
 ## The training datasets for enhancers and silencers
-   - All-Enhancer-Features-0.3.zip
+   - All-Enhancer-Features-0.3.zip (training file too big, this is the first 30% of all the training set)
    - All-Silencer-Features.zip
 ## Predicted active enhancers and silencers in K562 cells
-   - human-enhancers-K562.CRM.minmaxLogisticRegression.predict.zip
-   - human-silencers-K562.CRM.minmaxLogisticRegression.predict.zip
+   - human-Enhancers-K562.CRM.minmaxLogisticRegression.predict.zip
+   - human-Silencers-K562.CRM.minmaxLogisticRegression.predict.zip
