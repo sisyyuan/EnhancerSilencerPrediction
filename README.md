@@ -1,4 +1,4 @@
-# Simultaneous Prediction of Functional States and Types of cis-regulatory Modules
+# Simultaneous Prediction of Functional States and Types of cis-regulatory Modules Reveals Their Prevalent Dual Uses as Enhancers and Silencers
 ## The training datasets for predicting funcitonal states of enhancers and silencers
    - All-Enhancer-Features-Part1.zip (We split the training dataset into 3 parts for upload.)
    - All-Enhancer-Features-Part2.zip
